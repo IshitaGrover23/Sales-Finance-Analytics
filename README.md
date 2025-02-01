@@ -1,43 +1,72 @@
-## Sales Report :
+# AtliQ Hardware Sales & Finance Analytics
 
-- **Project objective:** 
+## Project Overview
+Comprehensive analysis of sales and financial performance for AtliQ Hardware, a global computer hardware manufacturer, using Advanced Excel techniques and business intelligence tools.
 
-    **1.** Create a [customer performance report] 
+## Sales Analytics
+### Project Objectives
+1. Customer Performance Report
+2. Market Performance vs Target Analysis
+3. Division Level Report
+4. Top/Bottom Products Analysis
+5. New Product Launch Impact Report
 
-    **2.** Conduct a comprehensive comparison between [market performance and sales targets]
+### Purpose
+- Monitor and evaluate sales activities and performance
+- Identify sales patterns and track KPIs
+- Enable data-driven decision making for sales strategies
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+### Business Impact
+- Optimize customer discounts through data-driven insights
+- Facilitate evidence-based customer negotiations
+- Identify potential business expansion opportunities
+- Track market performance against targets
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+## Finance Analytics
+### Project Objectives
+1. P&L Reports by Fiscal Year
+2. P&L Reports by Months
+3. P&L Reports by Markets
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+### Purpose
+- Evaluate financial performance metrics
+- Support strategic decision-making processes
+- Facilitate stakeholder communication
+- Enable market-wise performance tracking
 
+### Business Impact
+- Benchmark performance against industry standards
+- Establish foundation for budgeting and forecasting
+- Align financial planning with strategic objectives
+- Strengthen stakeholder confidence through transparent reporting
 
-## Finance Report :
+## Technical Skills Demonstrated
+- ETL Methodology Implementation
+- Power Query for Data Transformation
+- Date Table Generation
+- Fiscal Calendar Implementation
+- Data Model Relationship Building
+- Power Pivot Utilization
+- DAX for Custom Calculations
+- Advanced Excel Functions
 
-- **Project objective:** 
+## Soft Skills Developed
+- Business Domain Understanding (Sales & Finance)
+- User-Centric Report Design
+- Strategic Problem-Solving
+- Report Generation Optimization
+- Systematic Report Building Approach
+- Stakeholder Communication
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year]_ & [Months]
-  
-   **2.** Create Profit and Loss (P&L) reports by [Markets]
+## Tools Used
+- Microsoft Excel
+- Power Query
+- Power Pivot
+- DAX (Data Analysis Expressions)
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
-
-
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## Learning Outcomes
+- Enhanced understanding of sales & finance analytics
+- Proficiency in advanced Excel functionalities
+- Development of business intelligence skills
+- Experience in end-to-end report building
+- Understanding of data modeling best practices
